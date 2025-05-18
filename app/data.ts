@@ -94,6 +94,12 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
   },
+  {
+    title: 'Exploring the Intersection of Design, AI, and Design Engineering',
+    description: 'How AI is changing the way we design',
+    link: '/blog/my-first-blog-post',
+    uid: 'blog-2',
+  },
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
